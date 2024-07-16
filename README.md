@@ -1,3 +1,25 @@
+## Trang chủ
+![image](https://github.com/user-attachments/assets/12246dce-1072-44dd-a43a-78c5b74d1ecb)
+![image](https://github.com/user-attachments/assets/ee4e4406-a676-497b-ace6-bf958ec2e1f6)
+
+## Categories
+![image](https://github.com/user-attachments/assets/ee9270ce-f58b-4ae2-b698-836ae0511d6f)
+![image](https://github.com/user-attachments/assets/fc35397f-f257-40bb-bc09-6c3ae2518858)
+
+## Chi tiết sản phẩm
+![image](https://github.com/user-attachments/assets/97bc81ee-146e-4659-9def-127bc8ff0296)
+
+## Giỏ hàng
+![image](https://github.com/user-attachments/assets/473b0044-6616-49b8-a4c8-59d31c80f487)
+
+## Thanh toán
+![image](https://github.com/user-attachments/assets/25764168-516b-453a-a29d-57f19528bb61)
+![image](https://github.com/user-attachments/assets/2593e047-ef80-420d-9633-59e5717935e0)
+
+
+
+
+
 # Payload E-Commerce Template
 
 This is the official [Payload E-Commerce Template](https://github.com/payloadcms/payload/blob/main/templates/ecommerce). Use it to power e-commerce businesses and online stores of all sizes. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
