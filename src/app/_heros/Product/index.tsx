@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+// eslint-disable-next-line prettier/prettier
 import React, { Fragment } from 'react'
 import Link from 'next/link'
 
